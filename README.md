@@ -178,3 +178,41 @@ if __name__ == "__main__":
 - Runs `main()` when the script is executed directly.
 
 ***
+## OUTPUT
+ 1. ADDITION:
+
+
+    <img width="983" height="448" alt="Screenshot 2026-01-12 130931" src="https://github.com/user-attachments/assets/1c279f1b-a8ac-4e9c-be8d-0a5203b194a3" />
+
+
+2. SUBTRACTION:
+
+
+   <img width="824" height="431" alt="Screenshot 2026-01-12 131212" src="https://github.com/user-attachments/assets/9df5df4b-4e20-4e42-832f-b078692f0bd8" />
+
+
+3.MULTIPLICATION:
+
+    
+   <img width="715" height="424" alt="Screenshot 2026-01-12 131407" src="https://github.com/user-attachments/assets/5984638e-de7b-48e0-a75e-6108f42ffeeb" />
+
+
+4.TRANSPOSE:
+
+    
+  <img width="826" height="320" alt="Screenshot 2026-01-12 131637" src="https://github.com/user-attachments/assets/bd2c37a4-48a0-43a6-a2b5-97b4efa6b81e" />
+
+
+5.DETERMINANT:
+
+
+   <img width="953" height="383" alt="Screenshot 2026-01-12 131811" src="https://github.com/user-attachments/assets/2d5761c3-7a82-44bd-b6a3-9091b06048ab" />
+
+
+***
+
+
+
+    
+
+
